@@ -1,0 +1,20 @@
+{
+    "name": "santiari/project",
+    "description": "Basic Proyect",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "5arSanti",
+            "email": "santiari05@hotmail.com"
+        }
+    ],
+    "require": {}
+}
